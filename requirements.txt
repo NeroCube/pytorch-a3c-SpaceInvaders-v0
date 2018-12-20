@@ -1,4 +1,4 @@
-opencv-python
-gym
+gym[atari]==0.10.5
 numpy
-matplotlib
+torch
+scipy
